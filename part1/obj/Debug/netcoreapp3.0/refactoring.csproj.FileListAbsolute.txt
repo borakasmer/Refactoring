@@ -1,0 +1,12 @@
+C:\Users\bora.kasmer\refactoring\obj\Debug\netcoreapp3.0\refactoring.csprojAssemblyReference.cache
+C:\Users\bora.kasmer\refactoring\obj\Debug\netcoreapp3.0\refactoring.csproj.CoreCompileInputs.cache
+C:\Users\bora.kasmer\refactoring\obj\Debug\netcoreapp3.0\refactoring.AssemblyInfoInputs.cache
+C:\Users\bora.kasmer\refactoring\obj\Debug\netcoreapp3.0\refactoring.AssemblyInfo.cs
+C:\Users\bora.kasmer\refactoring\bin\Debug\netcoreapp3.0\refactoring.exe
+C:\Users\bora.kasmer\refactoring\bin\Debug\netcoreapp3.0\refactoring.deps.json
+C:\Users\bora.kasmer\refactoring\bin\Debug\netcoreapp3.0\refactoring.runtimeconfig.json
+C:\Users\bora.kasmer\refactoring\bin\Debug\netcoreapp3.0\refactoring.runtimeconfig.dev.json
+C:\Users\bora.kasmer\refactoring\bin\Debug\netcoreapp3.0\refactoring.dll
+C:\Users\bora.kasmer\refactoring\bin\Debug\netcoreapp3.0\refactoring.pdb
+C:\Users\bora.kasmer\refactoring\obj\Debug\netcoreapp3.0\refactoring.dll
+C:\Users\bora.kasmer\refactoring\obj\Debug\netcoreapp3.0\refactoring.pdb
