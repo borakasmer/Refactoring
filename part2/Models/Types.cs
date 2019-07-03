@@ -1,0 +1,1 @@
+public enum Types{ Software, Math, Art }
