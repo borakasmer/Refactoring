@@ -11,7 +11,7 @@ namespace Refactoring
         static Invoice invoice;
         static void Main(string[] args)
         {
-            Console.WriteLine("Wellcome to Refactoring Example");
+            Console.WriteLine("Welcome to Refactoring Example \n");
             courses = new Dictionary<string, Course>();
             courses.Add("dpattern", new Course() { Name = "Design Pattern", Type = Types.Software });
             courses.Add("hface", new Course() { Name = "Human Face", Type = Types.Art });
